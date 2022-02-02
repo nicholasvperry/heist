@@ -1,0 +1,16 @@
+D:\workspace\backend\csharp\book1\heist\bin\Debug\net5.0\heist.exe
+D:\workspace\backend\csharp\book1\heist\bin\Debug\net5.0\heist.deps.json
+D:\workspace\backend\csharp\book1\heist\bin\Debug\net5.0\heist.runtimeconfig.json
+D:\workspace\backend\csharp\book1\heist\bin\Debug\net5.0\heist.runtimeconfig.dev.json
+D:\workspace\backend\csharp\book1\heist\bin\Debug\net5.0\heist.dll
+D:\workspace\backend\csharp\book1\heist\bin\Debug\net5.0\ref\heist.dll
+D:\workspace\backend\csharp\book1\heist\bin\Debug\net5.0\heist.pdb
+D:\workspace\backend\csharp\book1\heist\obj\Debug\net5.0\heist.csproj.AssemblyReference.cache
+D:\workspace\backend\csharp\book1\heist\obj\Debug\net5.0\heist.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\backend\csharp\book1\heist\obj\Debug\net5.0\heist.AssemblyInfoInputs.cache
+D:\workspace\backend\csharp\book1\heist\obj\Debug\net5.0\heist.AssemblyInfo.cs
+D:\workspace\backend\csharp\book1\heist\obj\Debug\net5.0\heist.csproj.CoreCompileInputs.cache
+D:\workspace\backend\csharp\book1\heist\obj\Debug\net5.0\heist.dll
+D:\workspace\backend\csharp\book1\heist\obj\Debug\net5.0\ref\heist.dll
+D:\workspace\backend\csharp\book1\heist\obj\Debug\net5.0\heist.pdb
+D:\workspace\backend\csharp\book1\heist\obj\Debug\net5.0\heist.genruntimeconfig.cache
